@@ -10,43 +10,48 @@ sitemap: false
 Stewart Platform is a parallel-plate manipulator which has a wide range of use-cases in fields of surgery, flight simulators, robotics etc. The idea behind this project is to understand the working of such manipulators and to work with the Kinematics of these manipulators.
 
 **Components List**
+<p style="text-align: center;">1\. Arduino UNO with cable</p>
+	![](/assets/img/blog/stew_rob/1.png)
 
-1\. Arduino UNO with cable
-![](/assets/img/blog/stew_rob/1.png)
-![](/assets/img/blog/stew_rob/2.png)
+	![](/assets/img/blog/stew_rob/2.png)
 
-2\. MG995 Servo x 6
-![](/assets/img/blog/stew_rob/3.png)
+<p style="text-align: center;">2\. MG995 Servo x 6</p>
+	![](/assets/img/blog/stew_rob/3.png)
 
-3\. Servo Horn x 6
-![](/assets/img/blog/stew_rob/4.png)
+<p style="text-align: center;">3\. Servo Horn x 6</p>
+	![](/assets/img/blog/stew_rob/4.png)
 
-4\. Rod End Bearing Spherical Joints - 6mm x 12
-![](/assets/img/blog/stew_rob/5.png)
+<p style="text-align: center;">4\. Rod End Bearing Spherical Joints - 6mm x 12</p>
+	![](/assets/img/blog/stew_rob/5.png)
 
-5\. Metal shafts with threading - 6mm x 6
-![](/assets/img/blog/stew_rob/6.png)
+<p style="text-align: center;">5\. Metal shafts with threading - 6mm x 6</p>
+	![](/assets/img/blog/stew_rob/6.png)
 
-6\. LM2596S DC-DC Buck Converter x 3
-![](/assets/img/blog/stew_rob/7.png)
+<p style="text-align: center;">6\. LM2596S DC-DC Buck Converter x 3</p>
+	![](/assets/img/blog/stew_rob/7.png)
 
-7\. 3D Printed Platform
-![](/assets/img/blog/stew_rob/8.png)
+<p style="text-align: center;">7\. 3D Printed Platform</p>
+	![](/assets/img/blog/stew_rob/8.png)
 
-8\. Wooden Base - 40x30 cm
+<p style="text-align: center;">8\. Wooden Base - 40x30 cm</p>
 
-9\. Power Source AC-DC 12V-2A supply
-![](/assets/img/blog/stew_rob/9.png)
 
-10\. Screws and nuts- M3 with 3D printed 6mm->3mm connectors x 6
-![](/assets/img/blog/stew_rob/10.png)
-![](/assets/img/blog/stew_rob/11.png)
+<p style="text-align: center;">9\. Power Source AC-DC 12V-2A supply</p>
+	![](/assets/img/blog/stew_rob/9.png)
 
-11\. Jumper Wires
-![](/assets/img/blog/stew_rob/12.png)
+<p style="text-align: center;">10\. Screws and nuts- M3 with 3D printed 6mm->3mm connectors x 6</p>
+	![](/assets/img/blog/stew_rob/10.png)
+
+	![](/assets/img/blog/stew_rob/11.png)
+
+<p style="text-align: center;">11\. Jumper Wires</p>
+	![](/assets/img/blog/stew_rob/12.png)
 
 **Circuit Diagram**
-![](/assets/img/blog/stew_rob/13.png)
+
+
+
+	![](/assets/img/blog/stew_rob/13.png)
 
 **Types of Motion**
 
@@ -416,6 +421,8 @@ Video:
 ![](/assets/img/blog/stew_rob/Phase Difference Motion.mp4)
 
 **Images of the setup**
+
+
 ![](/assets/img/blog/stew_rob/14.png)
 
 ![](/assets/img/blog/stew_rob/15.png)
