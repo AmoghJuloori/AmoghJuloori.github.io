@@ -2,7 +2,7 @@
 layout: post
 title: Drone Detection using YOLO Algorithms
 description: >
-  This project is focused on the object detection implementation using YOLOv3 and v5 algorithms to detect drones in images.
+  This project is focused on the object detection implementation using YOLOv3 and YOLOv5 algorithms to detect drones in images.
 image: /assets/img/blog/yolo_dl/6.png
 sitemap: false
 ---
@@ -26,8 +26,8 @@ Kaushik M - 2020A4PS0661H
 
 ----------------------------------------
 
-  **LITERATURE REVIEW** 
-========================
+**Literature Review**
+----------------------
 
 For the implementation of drone detection, we have utilized the state of the art YOLOv3 algorithm.
 
@@ -94,14 +94,14 @@ It is the area of the Precision-Recall curve over a given confidence interval fo
 It is the average of the AP for all the object classes.
 
 **Architecture**
-================
+----------------
 
 YOLO stands for “ You Only Look Once”. It is a single shot detection technique that does not produce region proposals like the RCNN family. It is generally fasterThe feature extraction and object localization were unified into a single monolithic block.Inspired by ResNet and FPN (Feature-Pyramid Network) architectures, YOLO-V3 feature extractor, called Darknet-53 (it has 52 convolutions) contains skip connections (like ResNet) and 3 prediction heads (like FPN) — each processing the image at a different spatial compression.
 ![](/assets/img/blog/yolo_dl/5.png)
 
 
- **METHODOLOGY**
-================
+ **Methodology**
+-----------------
 
 **Dataset Preparation:**
 
@@ -129,8 +129,8 @@ YOLO stands for “ You Only Look Once”. It is a single shot detection techniq
 *   For single-stage detectors, such as YOLO, random geometry transformation is encouraged.
     
 
-**RESULTS**
-===========
+**Results**
+------------
 
 1.  **YoloV3 on Dataset without Bird Dataset or Augmentation(Implementation of the Paper):**
     
@@ -149,8 +149,8 @@ The model however incorrectly detected birds as drones as shown below. This coul
 The paper had used a dataset of over 10000 images and ran over 150 epochs. Our systems were unable to sustain the load and it exceeded the limits of the free version of google colab.
 
 
-**IMPROVEMENT**
-===============
+**Improvement**
+-----------------
 
 **Training YoloV3 with Data Augmentation:**
 ![](/assets/img/blog/yolo_dl/9.png)
@@ -167,8 +167,8 @@ Results are pretty good with an improved mAP.
 The following is the detection of a bird and a drone with the improvements applied:
 ![](/assets/img/blog/yolo_dl/11.png)
 
-**EXPERIMENTS**
-===============
+**Experiments**
+----------------
 
 1.  **Training on original drone dataset using yolov3 for 50 epochs**
     ![](/assets/img/blog/yolo_dl/12.png)
@@ -219,8 +219,8 @@ The project has given a good learning experience in the field of deep learning a
 
 In the end, YoloV5 with data augmentation performed the best.
 
-**BIBLIOGRAPHY**
-================
+**Bibliography**
+-----------------
 
 *   [https://ieeexplore.ieee.org/abstract/document/9121150](https://ieeexplore.ieee.org/abstract/document/9121150) - Paper followed
     
