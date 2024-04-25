@@ -13,6 +13,7 @@ redirect_from:
 
 <!--author-->
 
+<!--
 ## Hydejack
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
@@ -47,17 +48,17 @@ Hydejack is all static sites. _HTML_. All you need is a web server --- any web s
 
 
 ## A Free Blogging Theme
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
+**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so. -->
 
 <!--posts-->
 
-
+<!--
 ## An Impressive Portfolio
 A portfolio that's guaranteed to be impressive — no matter what you put into it.
 
 <!--projects-->
 
-
+<!--
 ## A Printable Resume
 Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](assets/Resume.pdf).
 
@@ -85,6 +86,7 @@ The Hydejack blog, as seen by the text browser `w3m`.
 
 ```html
 <!-- file: `_includes/my-body.html` -->
+<!--
 <script type="module">
   document.querySelector("hy-push-state").addEventListener("hy-push-state-load", () => {
     const supportsCodeHighlights = false; // TBD!!
@@ -174,4 +176,4 @@ Use the the form below to purchase Hydejack PRO:
 [rouge]: http://rouge.jneen.net
 [katex]: https://khan.github.io/KaTeX/
 [mathjax]: https://www.mathjax.org/
-[tinyletter]: https://tinyletter.com/
+[tinyletter]: https://tinyletter.com/ -->
