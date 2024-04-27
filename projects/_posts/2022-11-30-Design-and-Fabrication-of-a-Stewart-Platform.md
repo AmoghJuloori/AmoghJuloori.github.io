@@ -3,7 +3,7 @@ layout: post
 title: Design and fabrication of a Stewart Platform
 description: >
   This project is focuses on the design and fabrication of a Stewart platform and the implementation of certain motions using an Arduino UNO.
-image: /assets/img/blog/stew_rob/14_.png
+image: <img src="/assets/img/blog/stew_rob/14_.png" width="1080" />
 sitemap: false
 ---
 
@@ -51,7 +51,11 @@ Stewart Platform is a parallel-plate manipulator which has a wide range of use-c
 
 **Types of Motion**
 
-Using the Arduino IDE, we have been able to establish fourfour different types of motion:1. Vertical Motion2. Twisting Motion3. Circular Motion in a horizontal plane4. Phase Difference or Sine wave motion
+Using the Arduino IDE, we have been able to establish four different types of motion:
+1. Vertical Motion
+2. Twisting Motion
+3. Circular Motion in a horizontal plane
+4. Phase Difference or Sine wave motion
 
 **Vertical Motion**
 
