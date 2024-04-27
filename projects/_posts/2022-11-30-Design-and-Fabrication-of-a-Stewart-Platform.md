@@ -16,16 +16,16 @@ Stewart Platform is a parallel-plate manipulator which has a wide range of use-c
 ![](/assets/img/blog/stew_rob/2.png)
 
 <p style="text-align: center;">2. MG995 Servo x 6</p>
-![](/assets/img/blog/stew_rob/3.png)
+![](/assets/img/blog/stew_rob/3_.png)
 
 <p style="text-align: center;">3. Servo Horn x 6</p>
-![](/assets/img/blog/stew_rob/4.png)
+![](/assets/img/blog/stew_rob/4_.png)
 
 <p style="text-align: center;">4. Rod End Bearing Spherical Joints - 6mm x 12</p>
 ![](/assets/img/blog/stew_rob/5.png)
 
 <p style="text-align: center;">5. Metal shafts with threading - 6mm x 6</p>
-![](/assets/img/blog/stew_rob/6.png)
+![](/assets/img/blog/stew_rob/6_.png)
 
 <p style="text-align: center;">6. LM2596S DC-DC Buck Converter x 3</p>
 ![](/assets/img/blog/stew_rob/7.png)
@@ -42,7 +42,7 @@ Stewart Platform is a parallel-plate manipulator which has a wide range of use-c
 <p style="text-align: center;">10. Screws and nuts- M3 with 3D printed 6mm->3mm connectors x 6</p>
 ![](/assets/img/blog/stew_rob/10.png)
 
-![](/assets/img/blog/stew_rob/11.png)
+![](/assets/img/blog/stew_rob/11_.png)
 
 <p style="text-align: center;">11. Jumper Wires</p>
 ![](/assets/img/blog/stew_rob/12.png)
