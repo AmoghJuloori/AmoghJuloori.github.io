@@ -125,7 +125,8 @@ void loop() {
 ```
 
 Video:
-![](/assets/img/blog/stew_rob/Vertical Motion.MOV)
+
+https://github.com/AmoghJuloori/amoghjuloori.github.io/blob/gh-pages/assets/img/blog/stew_rob/vertical.MOV
 
 **Twisting Motion**
 
@@ -202,7 +203,8 @@ void loop() {
 }
 ```
 Video:
-![](/assets/img/blog/stew_rob/Twisting motion.MOV)
+
+https://github.com/AmoghJuloori/amoghjuloori.github.io/blob/gh-pages/assets/img/blog/stew_rob/twist.MOV
 
 **Circular Motion in a horizontal plane**
 
@@ -308,7 +310,8 @@ void loop() {
 ```
 
 Video:
-![](/assets/img/blog/stew_rob/Circular Motion in a Horizontal Plane.MOV)
+
+https://github.com/AmoghJuloori/amoghjuloori.github.io/blob/gh-pages/assets/img/blog/stew_rob/circular.MOV
 
 **Phase Difference or Sine wave motion**
 
@@ -414,7 +417,8 @@ void loop() {
 ```
 
 Video:
-![](/assets/img/blog/stew_rob/Phase Difference Motion.mp4)
+
+https://github.com/AmoghJuloori/amoghjuloori.github.io/blob/gh-pages/assets/img/blog/stew_rob/phase.mp4
 
 **Images of the setup**
 
