@@ -40,9 +40,7 @@ Stewart Platform is a parallel-plate manipulator which has a wide range of use-c
 ![](/assets/img/blog/stew_rob/9.png)
 
 <p style="text-align: center;">10. Screws and nuts- M3 with 3D printed 6mm->3mm connectors x 6</p>
-![](/assets/img/blog/stew_rob/10.png)
-
-![](/assets/img/blog/stew_rob/11_.png)
+![](/assets/img/blog/stew_rob/10_.png)![](/assets/img/blog/stew_rob/11_.png)
 
 <p style="text-align: center;">11. Jumper Wires</p>
 ![](/assets/img/blog/stew_rob/12.png)
