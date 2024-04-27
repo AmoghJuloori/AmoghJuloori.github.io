@@ -51,7 +51,7 @@ Stewart Platform is a parallel-plate manipulator which has a wide range of use-c
 
 
 
-	![](/assets/img/blog/stew_rob/13.png)
+![](/assets/img/blog/stew_rob/13.png)
 
 **Types of Motion**
 
