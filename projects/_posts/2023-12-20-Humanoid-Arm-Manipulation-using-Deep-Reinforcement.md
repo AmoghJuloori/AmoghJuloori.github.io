@@ -11,7 +11,7 @@ sitemap: false
 
 **About the Algorithm & Network:**
 
-*Proximal Policy Optimization (PPO)*
+***Proximal Policy Optimization (PPO)***
 
 Proximal Policy Optimization is a prominent policy gradient algorithm in the field of reinforcement learning in robotics. Some of the key features of this algorithm are:
 
@@ -22,29 +22,29 @@ Proximal Policy Optimization is a prominent policy gradient algorithm in the fie
 
 $$L^{CLIP}(θ)=E_t​[min(r_t​(θ)A_t​,clip(r_t​(θ),1−ϵ,1+ϵ)A_t​)]$$
 
-Here $r_t​(θ)$ signifies the ratio of the probabilities of new policy to old policy 
+Here $$r_t​(θ)$$ signifies the ratio of the probabilities of new policy to old policy 
 
-$A_t​$ is the advantage estimator at time *t.* 
+$$A_t​$$ is the advantage estimator at time *t.* 
 
-1. **Advantage Estimation**: PPO uses Generalized Advantage Estimation (GAE) for estimating the advantage values for determining the direction and magnitude of the policy update.
+3. **Advantage Estimation**: PPO uses Generalized Advantage Estimation (GAE) for estimating the advantage values for determining the direction and magnitude of the policy update.
 
-*Implemented in Actor-Critic Style Neural Network*
+***Implemented in Actor-Critic Style Neural Network***
 
-$n_O$: number of observations
+$$n_O$$: number of observations
 
-$n_A$: number of actions
+$$n_A$$: number of actions
 
-Actor network dimensions: $n_O$×256×256×256×$n_A$
+Actor network dimensions: $$n_O×256×256×256×n_A$$
 
-Critic network dimensions: $n_O$×256×256×256×1
+Critic network dimensions: $$n_O×256×256×256×1$$
 
 1. **Actor**: The actor component is responsible for selecting actions. It is essentially a policy function that maps states to actions. The actor is typically represented as a parameterised function, often a neural network, whose parameters are adjusted to improve the policy based on feedback from the critic.
-2. **Critic**: The critic evaluates the actions taken by the actor by computing a value function. This value function can either be a state-value function $V(s)$ (which estimates how good it is to be in a given state) or an action-value function $Q(s,a)$ (which estimates the value of taking a certain action in a given state). The critic's role is to estimate the error in the policy's action predictions, which is used to update both the critic and the actor.
-3. **Temporal Difference Error:** The TD error is given by $**δ=r+γV(s^′)−V(s)**$. Here $r$ is the reward received when an agent in state $s$ has taken an action $a$. $γ$ is the discount factor and $V(s^′)$ is the value of next state $s^′$, $V(s)$ is the value of state $s$. 
+2. **Critic**: The critic evaluates the actions taken by the actor by computing a value function. This value function can either be a state-value function $$V(s)$$ (which estimates how good it is to be in a given state) or an action-value function $$Q(s,a)$$ (which estimates the value of taking a certain action in a given state). The critic's role is to estimate the error in the policy's action predictions, which is used to update both the critic and the actor.
+3. **Temporal Difference Error:** The TD error is given by $$**δ=r+γV(s^′)−V(s)**$$. Here $$r$$ is the reward received when an agent in state $$s$$ has taken an action $$a$$. $$γ$$ is the discount factor and $$V(s^′)$$ is the value of next state $$s^′$$, $$V(s)$$ is the value of state $$s$$. 
     
-    The total positive term $r+γV(s^′)$ is the estimate of total return after taking the action $a$ in state $s$ and then going to state $s^′$ and thereon following the policy. The negative term $V(s)$ is the value/estimate of total return while following the policy from state $s$ of state.
+    The total positive term $$r+γV(s^′)$$ is the estimate of total return after taking the action $$a$$ in state $$s$$ and then going to state $$s^′$$ and thereon following the policy. The negative term $$V(s)$$ is the value/estimate of total return while following the policy from state $$s$$ of state.
     
-    A positive value of $δ$ means the action $a$ gave better than expected outcome whereas a negative value of $δ$ means the outcome was worse than expected. Evidently, actions in the first case are favoured in the future while in the latter case are avoided by the policy.
+    A positive value of $$δ$$ means the action $$a$$ gave better than expected outcome whereas a negative value of $$δ$$ means the outcome was worse than expected. Evidently, actions in the first case are favoured in the future while in the latter case are avoided by the policy.
     
 4. **Policy Update:**  The actor takes care of the policy update using a gradient of a performance measure, in general the Temporal Difference error given by the critic. The policy is updated to maximise the expected return.
 5. **Value Function Update:**  This is taken care of by the critic using the TD error. This error reflects how good the actor's action was compared to the critic's expectation.
