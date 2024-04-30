@@ -20,11 +20,11 @@ Proximal Policy Optimization is a prominent policy gradient algorithm in the fie
 
       The objective function of PPO looks to maximize the clipped surrogate objective: 
 
-$$L^{CLIP}(θ)=E_t​[min(r_t​(θ)A_t​,clip(r_t​(θ),1−ϵ,1+ϵ)A_t​)]$$
+	$$L^{CLIP}(θ)=E_t​[min(r_t​(θ)A_t​,clip(r_t​(θ),1−ϵ,1+ϵ)A_t​)]$$
 
-Here $$r_t​(θ)$$ signifies the ratio of the probabilities of new policy to old policy 
+	Here $$r_t​(θ)$$ signifies the ratio of the probabilities of new policy to old policy 
 
-$$A_t​$$ is the advantage estimator at time *t.* 
+	$$A_t​$$ is the advantage estimator at time *t.* 
 
 3. **Advantage Estimation**: PPO uses Generalized Advantage Estimation (GAE) for estimating the advantage values for determining the direction and magnitude of the policy update.
 
