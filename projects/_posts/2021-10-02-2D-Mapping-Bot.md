@@ -40,8 +40,7 @@ Scanning is done by the HCSR04 ultrasonic sensor mounted upon an SG90 servo moto
 ---
 
 # Results
-
-https://www.youtube.com/embed/xwrsreReJ0o?si=coD6YoYjEwS98A0J
+![](https://www.youtube.com/embed/xwrsreReJ0o?si=coD6YoYjEwS98A0J)
 ---
 
 # Detailed Documentation:
