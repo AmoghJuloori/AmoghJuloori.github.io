@@ -10,7 +10,7 @@ sitemap: false
 This is a project done at the Automation and Robotics Club at BITS Pilani Hyderabad with my colleague Tanay Ranjan. 
 
 
-# Components List
+## Components List
 
 - Arduino IDE
 - HC05 Bluetooth Module
@@ -28,7 +28,7 @@ This is a project done at the Automation and Robotics Club at BITS Pilani Hydera
 
 ---
 
-# Working
+## Working
 The 2D mapping bot has been designed and programmed to be controlled by the user in terms of locomotion. The working can be classified into two major processes: Locomotion and Scanning.
 
 ### Locomotion
@@ -39,11 +39,11 @@ Scanning is done by the HCSR04 ultrasonic sensor mounted upon an SG90 servo moto
 
 ---
 
-# Results
-![](https://www.youtube.com/embed/xwrsreReJ0o?si=coD6YoYjEwS98A0J)
+## Results
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xwrsreReJ0o?si=aRqvwHQ-dUqsN_j-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
-# Detailed Documentation:
+## Detailed Documentation:
 
 ---
 
