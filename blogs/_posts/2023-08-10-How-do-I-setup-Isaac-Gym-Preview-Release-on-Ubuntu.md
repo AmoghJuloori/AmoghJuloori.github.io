@@ -1,4 +1,3 @@
-#
 ---
 layout: post
 title:  How do I setup Isaac Gym Preview Release on Ubuntu?
