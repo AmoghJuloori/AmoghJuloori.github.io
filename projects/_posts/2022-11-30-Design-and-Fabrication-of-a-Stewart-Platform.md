@@ -2,7 +2,7 @@
 layout: post
 title: Design and fabrication of a Stewart Platform
 description: >
-  This project is focuses on the design and fabrication of a Stewart platform and the implementation of certain motions using an Arduino UNO.
+  This project focuses on the design and fabrication of a Stewart platform and the implementation of certain motions using an Arduino UNO.
 image: /assets/img/blog/stew_rob/14_.png
 sitemap: false
 ---
