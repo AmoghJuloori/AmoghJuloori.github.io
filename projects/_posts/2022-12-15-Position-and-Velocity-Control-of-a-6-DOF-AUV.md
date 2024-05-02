@@ -2,7 +2,7 @@
 layout: post
 title: Position and Velocity Control of a 6-DOF AUV
 description: >
-  This report discusses the results obtained after designing the PID, LQR controller models for the AUV/ROV and compares the pros and cons of the two different controllers against each other.
+  This report discusses the results obtained after designing the PID, LQR controller models for the AUV/ROV and compares the pros and cons of the two different controllers against each other. Check out the **github repo** at [Position-and-Velocity-Control-of-a-6-DOF-AUV](https://github.com/AmoghJuloori/Position-and-Velocity-Control-of-a-6-DOF-AUV)
 image: /assets/img/blog/auv_mcs/AUV_display.png
 sitemap: false
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Drone Detection using YOLO Algorithms
 description: >
-  This project is focused on the object detection implementation using YOLOv3 and YOLOv5 algorithms to detect drones in images.
+  This project is focused on the object detection implementation using YOLOv3 and YOLOv5 algorithms to detect drones in images. Check out the **github repo** at [Drone-Detection-using-YOLO-Algorithms](https://github.com/AmoghJuloori/Drone-Detection-using-YOLO-Algorithms)
 image: /assets/img/blog/yolo_dl/6.png
 sitemap: false
 ---
