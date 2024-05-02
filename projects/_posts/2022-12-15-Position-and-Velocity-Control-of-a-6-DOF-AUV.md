@@ -2,13 +2,15 @@
 layout: post
 title: Position and Velocity Control of a 6-DOF AUV
 description: >
-  This report discusses the results obtained after designing the PID, LQR controller models for the AUV/ROV and compares the pros and cons of the two different controllers against each other. Check out the **github repo** at [Position-and-Velocity-Control-of-a-6-DOF-AUV](https://github.com/AmoghJuloori/Position-and-Velocity-Control-of-a-6-DOF-AUV)
+  This report discusses the results obtained after designing the PID, LQR controller models for the AUV/ROV and compares the pros and cons of the two different controllers against each other. [GitHub Repo](https://github.com/AmoghJuloori/Position-and-Velocity-Control-of-a-6-DOF-AUV)
 image: /assets/img/blog/auv_mcs/AUV_display.png
 sitemap: false
 ---
 
 
 The aim of this project is to design two different control system models in Simulink using PID and LQR controllers respectively and to get the results for positional and velocity parameters of the AUV based on the desired reference inputs. To tune parameters related to both the controllers to achieve better results and finally test the model physically underwater.
+
+Check out the **github repo** at [Position-and-Velocity-Control-of-a-6-DOF-AUV](https://github.com/AmoghJuloori/Position-and-Velocity-Control-of-a-6-DOF-AUV).
 
 
 **Group Members:**

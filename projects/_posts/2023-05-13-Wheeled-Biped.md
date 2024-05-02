@@ -2,12 +2,13 @@
 layout: post
 title: Wheeled Biped
 description: >
-  This project is focused on building a real-time system for a biped on wheels.
+  This project is focused on building a real-time system for a biped on wheels. [GitHub Repo](https://github.com/AmoghJuloori/WheeledBiped)
 image: /assets/img/blog/whb_fp/28.png
 sitemap: false
 ---
 
-The aim of this project is to build a biped on two wheels with self balance and jumping modes where it should be able to switch between both modes according to the necessity. Check out the **github repo** at [WheeledBiped](https://github.com/AmoghJuloori/WheeledBiped)
+The aim of this project is to build a biped on two wheels with self balance and jumping modes where it should be able to switch between both modes according to the necessity. 
+Check out the **github repo** at [WheeledBiped](https://github.com/AmoghJuloori/WheeledBiped).
 
 **Team Members :** 
 -------------------

@@ -2,12 +2,14 @@
 layout: post
 title: Design and fabrication of a Stewart Platform
 description: >
-  This project focuses on the design and fabrication of a Stewart platform and the implementation of certain motions using an Arduino UNO. Check out the **github repo** at [Design-and-Fabrication-of-a-Stewart-Platform](https://github.com/AmoghJuloori/Design-and-Fabrication-of-a-Stewart-Platform)
+  This project focuses on the design and fabrication of a Stewart platform and the implementation of certain motions using an Arduino UNO. [GitHub Repo](https://github.com/AmoghJuloori/Design-and-Fabrication-of-a-Stewart-Platform)
 image: /assets/img/blog/stew_rob/14_.png
 sitemap: false
 ---
 
 Stewart Platform is a parallel-plate manipulator which has a wide range of use-cases in fields of surgery, flight simulators, robotics etc. The idea behind this project is to understand the working of such manipulators and to work with the Kinematics of these manipulators.
+
+Check out the **github repo** at [Design-and-Fabrication-of-a-Stewart-Platform](https://github.com/AmoghJuloori/Design-and-Fabrication-of-a-Stewart-Platform).
 
 **Components List**
 <p style="text-align: center;">1. Arduino UNO with cable</p>
