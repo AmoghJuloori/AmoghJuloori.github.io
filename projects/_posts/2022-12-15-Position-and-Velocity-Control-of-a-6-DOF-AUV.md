@@ -559,7 +559,8 @@ Hence, we have come to the conclusion that using an LQR control is **far more re
 
 1.  6-DoF Modelling and Control of a Remotely Operated Vehicle by Chu-Jou Wu, B.Eng. (Electrical) Academic Supervisor: Assoc Prof. Karl Sammut Engineering Discipline College of Science and Engineering Flinders University July, 2018.
     
-2.  Lum, C. (2019). Introduction to Linear Quadratic Regulator (LQR) Control. Retrieved from YouTube: <iframe width="560" height="315" src="https://www.youtube.com/embed/wEevt2a4SKI?si=WVwMMMtFLSg7jBPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+2.  Lum, C. (2019). Introduction to Linear Quadratic Regulator (LQR) Control. Retrieved from YouTube: https://www.youtube.com/watch?v=wEevt2a4SKI&t=4689
+
 ---
 <br>
 *This post is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) by the author.*
