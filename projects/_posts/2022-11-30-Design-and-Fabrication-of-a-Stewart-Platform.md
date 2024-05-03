@@ -9,9 +9,7 @@ sitemap: false
 
 Stewart Platform is a parallel-plate manipulator which has a wide range of use-cases in fields of surgery, flight simulators, robotics etc. The idea behind this project is to understand the working of such manipulators and to work with the Kinematics of these manipulators.
 
-Check out the **github repo** at [Design-and-Fabrication-of-a-Stewart-Platform](https://github.com/AmoghJuloori/Design-and-Fabrication-of-a-Stewart-Platform).
-<div class="github-card" data-user="AmoghJuloori" data-repo="Design-and-Fabrication-of-a-Stewart-Platform"></div>
-<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
+[Check out the GitHub repository](https://github.com/AmoghJuloori/Design-and-Fabrication-of-a-Stewart-Platform)
 
 **Components List**
 <p style="text-align: center;">1. Arduino UNO with cable</p>

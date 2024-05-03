@@ -12,7 +12,7 @@ Unmanned Aerial Vehicles (UAVs), commonly known as drones have witnessed a massi
 
 This project is focused on studying the nature of the YOLOv3 algorithm in object detection and understanding, implementing the methods used for improving the working of the algorithm in terms of giving better outputs for the given test data. 
 
-Check out the **github repo** at [Drone-Detection-using-YOLO-Algorithms](https://github.com/AmoghJuloori/Drone-Detection-using-YOLO-Algorithms).
+[Check out the GitHub repository](https://github.com/AmoghJuloori/Drone-Detection-using-YOLO-Algorithms)
 
 **Team Members :** 
 -------------------

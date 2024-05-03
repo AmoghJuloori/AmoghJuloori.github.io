@@ -10,7 +10,7 @@ sitemap: false
 
 The aim of this project is to design two different control system models in Simulink using PID and LQR controllers respectively and to get the results for positional and velocity parameters of the AUV based on the desired reference inputs. To tune parameters related to both the controllers to achieve better results and finally test the model physically underwater.
 
-Check out the **github repo** at [Position-and-Velocity-Control-of-a-6-DOF-AUV](https://github.com/AmoghJuloori/Position-and-Velocity-Control-of-a-6-DOF-AUV).
+[Check out the GitHub repository](https://github.com/AmoghJuloori/Position-and-Velocity-Control-of-a-6-DOF-AUV)
 
 
 **Group Members:**
