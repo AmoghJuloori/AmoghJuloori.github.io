@@ -767,3 +767,6 @@ void serialEvent(Serial myPort)
 ![](/assets/img/blog/map_bot/14.png)
 ![](/assets/img/blog/map_bot/15.png)
 ![](/assets/img/blog/map_bot/16.png)
+
+
+This post is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) by the author.

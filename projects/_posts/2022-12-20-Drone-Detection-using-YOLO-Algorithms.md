@@ -236,3 +236,6 @@ In the end, YoloV5 with data augmentation performed the best.
 *   [https://sh-tsang.medium.com/review-bag-of-freebies-for-training-object-detection-neural-networks-d256c8fe8a9](https://sh-tsang.medium.com/review-bag-of-freebies-for-training-object-detection-neural-networks-d256c8fe8a9)
     
 *   [https://learnopencv.com/custom-object-detection-training-using-yolov5/#Custom-Object-Detection-Training-using-YOLOv5](https://learnopencv.com/custom-object-detection-training-using-yolov5/#Custom-Object-Detection-Training-using-YOLOv5)
+
+
+This post is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) by the author.
