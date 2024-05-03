@@ -11,6 +11,7 @@ Stewart Platform is a parallel-plate manipulator which has a wide range of use-c
 
 [Check out the GitHub repository](https://github.com/AmoghJuloori/Design-and-Fabrication-of-a-Stewart-Platform)
 
+
 **Components List**
 <p style="text-align: center;">1. Arduino UNO with cable</p>
 ![](/assets/img/blog/stew_rob/1_.png)![](/assets/img/blog/stew_rob/2_.png)
