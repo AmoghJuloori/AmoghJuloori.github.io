@@ -96,8 +96,8 @@ I use Isaac Gym Preview Release 4. The best way that I recommend anyone to creat
 
 The installation is finished. Go and train some robots!!
 
-
 ---
-<br><br><br>
+<br><br>
 This post is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) by the author.
 ---
+<br>
