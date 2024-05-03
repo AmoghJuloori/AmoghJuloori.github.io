@@ -182,6 +182,6 @@ The above tasks were simulated in Isaac Gym and trained using PPO with reward fu
 **Videos:**
 To be updated...
 
-
-This post is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) by the author.
-
+---
+<br>
+*This post is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) by the author.*

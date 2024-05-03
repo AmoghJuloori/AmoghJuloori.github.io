@@ -98,5 +98,5 @@ The installation is finished. Go and train some robots!!
 
 ---
 <br>
-This post is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) by the author.
+*This post is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) by the author.*
 
