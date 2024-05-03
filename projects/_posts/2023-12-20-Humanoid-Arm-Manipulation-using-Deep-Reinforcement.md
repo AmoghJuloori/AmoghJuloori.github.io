@@ -7,8 +7,6 @@ image: /assets/img/blog/drl_man/6.png
 sitemap: false
 ---
 
-**Subject of work:** 
----------------------
 
 Deep Reinforcement Learning for manipulation tasks using a humanoid arm in complex environments.
 
