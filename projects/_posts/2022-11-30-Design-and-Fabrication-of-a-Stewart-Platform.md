@@ -13,6 +13,8 @@ Stewart Platform is a parallel-plate manipulator which has a wide range of use-c
 
 
 **Components List**
+--------------------
+
 <p style="text-align: center;">1. Arduino UNO with cable</p>
 ![](/assets/img/blog/stew_rob/1_.png)![](/assets/img/blog/stew_rob/2_.png)
 
@@ -47,12 +49,13 @@ Stewart Platform is a parallel-plate manipulator which has a wide range of use-c
 ![](/assets/img/blog/stew_rob/12.png)
 
 **Circuit Diagram**
-
+--------------------
 
 
 ![](/assets/img/blog/stew_rob/13.png)
 
 **Types of Motion**
+--------------------
 
 Using the Arduino IDE, we have been able to establish four different types of motion:
 1. Vertical Motion
@@ -436,7 +439,7 @@ Video:
 </video>
 
 **Images of the setup**
-
+------------------------
 
 ![](/assets/img/blog/stew_rob/14.png)
 

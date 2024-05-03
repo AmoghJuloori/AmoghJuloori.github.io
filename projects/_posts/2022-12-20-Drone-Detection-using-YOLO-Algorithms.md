@@ -27,7 +27,6 @@ Rakshith Dasari - 2020AAPS0329H
 Kaushik M - 2020A4PS0661H
 
 
-----------------------------------------
 
 **Literature Review**
 ----------------------
@@ -216,7 +215,8 @@ We train the model using three different pre-trained weights: Yolo 5s(small), Yo
 ![](/assets/img/blog/yolo_dl/14.png)
 ![](/assets/img/blog/yolo_dl/15.png)
 
-**FINDINGS AND ACCOMPLISHMENTS**
+**Findings and Accomplishments**
+---------------------------------
 
 The project has given a good learning experience in the field of deep learning and image processing. Training the model for different numbers of epochs and for different sizes possessing different qualities in terms of the images used, we have gained a decent experience in the field of image processing on how these parameters affect the working of the designed model. We explored different methods of improvement like: Image Augmentation that includes birds and planes. Layer Freezing allowed us to reduce the run-time. 
 

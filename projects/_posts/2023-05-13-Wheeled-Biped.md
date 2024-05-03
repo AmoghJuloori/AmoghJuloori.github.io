@@ -23,6 +23,7 @@ Tanay Ranjan - 2020A3PS0483H
 
 
 **Outline**
+------------
 
 Outline to achieve the objective:
 
@@ -36,6 +37,7 @@ Outline to achieve the objective:
     
 
 **Literature Review**
+----------------------
 
 A parallel four-bar mechanism is being used as a new type of wheel-legged robot, and two controllers are designed to ensure stable motion - the linear quadratic regulator (LQR) and fuzzy proportion differentiation (PD) jumping controller. The robot is equipped with the ability to jump over obstacles and navigate rough terrain. The height of the jump trajectory adjusts based on changes in the link angle of the parallel four-bar linkage mechanism, enhancing the robot's ability to tackle vertical obstacles. 
 
@@ -122,6 +124,7 @@ Here :
 Where 𝞃 is the torque of the hip joint.
 
 **Methodology**
+---------------
 
 **Self-balance Mode**
 
@@ -258,6 +261,7 @@ This estimates the torque as a function of time taking takeoff time as 0.45 seco
 We built this system to control the q, q\_dot while takeoff where q is the hip joint angle. But due to certain issues like the number of rules and membership functions of the fuzzy controller and due to the lack of proper reference trajectory equations, we could not get proper results for the torque and the control variables: 
 
 **Results**
+------------
 
 For testing, we set initial angles of robot as 15°, 30°, and 45°, and then we observed how it recovers by accelerating its bottom wheel
 
@@ -299,6 +303,7 @@ This is the variation of the torque. We can clearly see that the torque increase
 These are the plots for the q and q\_dot. The parabolic projectile reference is taken into consideration.
 
 **CAD**
+--------
 
 The CAD model for the robot is as follows:
 ![](/assets/img/blog/whb_fp/28.png)
@@ -308,10 +313,12 @@ The CAD model for the robot is as follows:
 ![](/assets/img/blog/whb_fp/30.png)
 
 **Gearbox**
+------------
 
 ![](/assets/img/blog/whb_fp/31.png)
 
 **Conclusion**
+---------------
 
 *   We learned the mathematical modeling of the wheeled biped and its implementation using LQR and Fuzzy PD controllers.
     
@@ -322,6 +329,7 @@ The CAD model for the robot is as follows:
 *   The fabrication and testing of the physical system of the robot would be our target for the future.
     
 
-**References**           
+**References**    
+---------------       
 
 *   [Design and dynamic analysis of jumping wheel-legged robot in complex terrain environment](https://www.frontiersin.org/articles/10.3389/fnbot.2022.1066714/full)

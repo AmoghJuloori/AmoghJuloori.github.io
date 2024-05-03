@@ -14,6 +14,7 @@ The aim of this project is to design two different control system models in Simu
 
 
 **Group Members:**
+-------------------
 
 Juloori Amogh - 2020AAPS0422H
 
@@ -23,7 +24,9 @@ Thathapudi Sanjeev Paul Joel - 2020AAPS0120H
 
 L Shiva Rudra - 2020A8PS1246H
 
+
 **A)  PID Controller:**
+------------------------
 
 **Literature Review:**
 
@@ -289,7 +292,9 @@ Now, since propeller pair of 5 and 8 will be opposite to that of the pair 6 and 
 
 So, the force in the vertical direction is balanced.
 
+
 **B)  LQR Controller:**
+------------------------
 
 **Literature Review:**
 
@@ -530,7 +535,9 @@ For   Q = eye(12) & R = 0.1\*ones(12) + 0.9\*eye(12)             �
 
 As it can be observed, in the case of the open loop system, we have four eigen values or poles located at the origin which leads to the fact that the system is marginally stable. Whereas, for the closed loop system, most of  the poles have shifted towards the left side of the imaginary axis with all the poles lying on the left half of the s-plane. This gives enough proof to say that after implementing LQR control, the system has become more stable as compared to the open loop system and hence has helped in increasing performance in terms of reaching the end states. 
 
+
 **Conclusion:**
+----------------
 
 Given the results of implementing both PID and LQR control on the ROV system, we can see a better response for an LQR control over the PID when we include disturbances in the environment. Also, the LQR control is far more robust in adapting to the change in buoyancy as compared to the PID control, which broadens the spectrum of usage in the former as compared to the latter. When we have changes in the system, using a PID requires tuning all the three gain values for all the control inputs. Tuning the gain values for multiple parameters is not an easy task and there is a very narrow range of values which give the desired results for a specific situation. On the other hand, when we want to adapt to changes while working on LQR control, our tuning is dependent only on the Q,R cost matrices which can help in changing the  relative importance of the states and control inputs for a given circumstance. Here, our goal is achieved by changing the values of the matrices, so as to select the more important factor among the states and inputs,  where we achieve the desired results for a wide range of values which only differ in terms of speed of transient response and steady state error. Another advantage of LQR over PID control that we have come across was the ability to easily control velocity components along with the position coordinates, which would lead to much more complexity in the case of a PID based controller. For simulating in a noisy environment, we used nonlinear PID control where a water current velocity was added as a disturbance; its value being constant with time and we attained appreciable results. Whereas for the LQR setup, we have used a gaussian white noise as a source of disturbance, which gives a better look at the real world scenario. Upon increasing the Q matrix or simply, the cost of attaining the states, we have observed better performance in attaining the states and less erratic, more uniform thrust outputs produced by the thrusters; which is a more reliable result since it is realisable in a real world environment. 
 
@@ -538,7 +545,9 @@ However, one drawback of using the LQR control is its applicability to only line
 
 Hence, we have come to the conclusion that using an LQR control is **far more reliable** than a PID control for the positional and velocity control of a 6-DOF Autonomous Underwater Vehicle.
 
+
 **Future Work:**
+-----------------
 
 *   The model can be implemented with an Adaptive Controller based system which is expected to give better performance.
     
@@ -546,6 +555,7 @@ Hence, we have come to the conclusion that using an LQR control is **far more re
     
 
 **Bibliography:**
+------------------
 
 1.  6-DoF Modelling and Control of a Remotely Operated Vehicle by Chu-Jou Wu, B.Eng. (Electrical) Academic Supervisor: Assoc Prof. Karl Sammut Engineering Discipline College of Science and Engineering Flinders University July, 2018.
     
