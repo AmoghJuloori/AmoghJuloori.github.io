@@ -330,9 +330,9 @@ The CAD model for the robot is as follows:
     
 
 **References**    
----------------       
+---------------      
 
-*   [Design and dynamic analysis of jumping wheel-legged robot in complex terrain environment](https://www.frontiersin.org/articles/10.3389/fnbot.2022.1066714/full)
+[Design and dynamic analysis of jumping wheel-legged robot in complex terrain environment](https://www.frontiersin.org/articles/10.3389/fnbot.2022.1066714/full)
 
 ---
 <br>
