@@ -2,7 +2,7 @@
 layout: post
 title:  How do I setup Isaac Gym Preview Release on Ubuntu?
 description: >
-  In this blog, I discuss the steps to install IsaacGym Preview Release onto your Ubuntu 18.04/20.04 
+  In this blog, I discuss the steps to setup an AWS instance for running IsaacGym on a cloud GPU 
 image: /assets/img/blog/aws_ig/cloud-gpu.png
 sitemap: false
 ---
