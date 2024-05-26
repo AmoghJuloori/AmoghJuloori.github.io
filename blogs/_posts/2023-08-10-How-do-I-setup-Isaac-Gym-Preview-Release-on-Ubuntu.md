@@ -3,7 +3,7 @@ layout: post
 title:  How do I setup Isaac Gym Preview Release on Ubuntu?
 description: >
   In this blog, I discuss the steps to install IsaacGym Preview Release onto your Ubuntu 18.04/20.04 
-image: /assets/img/blog/isaacgym.jpeg
+image: /assets/img/blog/drl_man/isaacgym.jpeg
 sitemap: false
 ---
 
